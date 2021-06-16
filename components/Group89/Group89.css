@@ -1,0 +1,55 @@
+.bigrid-3x2-gap {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-bottom: 243.65px;
+  margin-left: 219px;
+  mix-blend-mode: normal;
+  padding: 3.6px 1px;
+  width: 16px;
+}
+.bigrid-3x2-gap-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 23px;
+  margin-bottom: 53.52px;
+  margin-left: 50px;
+  mix-blend-mode: normal;
+  padding: 4.2px 1px;
+  width: 16px;
+}
+.group {
+  background-size: 100% 100%;
+  height: 13px;
+  width: 14px;
+}
+.group-89 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 1280px;
+  opacity: 0.04;
+}
+.line {
+  height: 2145px;
+  margin-left: 319px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-4 {
+  height: 2145px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-8 {
+  height: 2145px;
+  margin-left: 17px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.vector {
+  height: 14px;
+  mix-blend-mode: normal;
+  width: 14px;
+}
